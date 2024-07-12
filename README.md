@@ -15,7 +15,7 @@ cd scrapy_rental
 scrapy crawl kelm_immobilien --loglevel ERROR
 ```
 
-For Logs:
+For all logs Levels:
 
 ```shell
 cd scrapy_rental

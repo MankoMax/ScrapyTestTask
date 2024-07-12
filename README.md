@@ -1,6 +1,6 @@
 # Rental Parser
 
-Service for parsing rental offers from https://kelm-immobilien.de/immobilien source.
+Service for parsing rental offers from https://kelm-immobilien.de/immobilien source using Scrapy-framework.
 
 ## Installation
 

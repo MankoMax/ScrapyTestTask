@@ -5,8 +5,8 @@ Service for parsing rental offers from https://kelm-immobilien.de/immobilien sou
 ## Installation
 
 ```shell
-poetry install
 poetry shell
+poetry install
 ```
 For Debug mode:
 
